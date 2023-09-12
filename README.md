@@ -1,2 +1,2 @@
 # Lab2
-A and O
+Al and Ol
